@@ -1,0 +1,133 @@
+Symptom,Description
+itching,Քոր
+skin_rash,մաշկի ցան
+nodal_skin_eruptions,"դուրս թավել , պզուկ, բշտիկ"
+continuous_sneezing,"շարունակական   փռշտոց, փռշտալ"
+shivering,"ցնցում, դող, դողէրոցք"
+chills,"սարսուռ, դող"
+joint_pain,"հոդերի ցավ , հոդացավ, ծնկների ցավ, ծունկ, արմունկների ցավ, արմունկ"
+stomach_pain,ստամոքսի ցավ 
+acidity,"թթվայնություն, թթվություն, թթվայնության բարձրացում, ստամոքսի այրոց"
+ulcers_on_tongue,բշտիկներ լեզվի վրա
+muscle_wasting,մկանների թուլացում
+vomiting,"փսխում, փսխել, հետ տալ"
+burning_micturition,այրվող միզել
+spotting_ urination,միզել
+fatigue,հոգնածություն
+weight_gain,"քաշ ավելացնել, ավելորդ քաշ, գիրանալ, գեր"
+anxiety,անհանգստություն
+cold_hands_and_feets,սառը ձեռքեր սառը ոտքեր
+mood_swings,տրամադրության տատանումներ
+weight_loss,"կշռի կորուստ, քաշի կորուստ, նիհարրել"
+restlessness,անհանգստություն
+lethargy,"անտարբերություն, թմրածություն, անշարժություն, լեթարգիա"
+patches_in_throat,"մասնիկներ կոկորդում, կոկորդի ցավ"
+irregular_sugar_level,շաքարի անկանոն մակարդակ
+cough,հազ
+high_fever,"բարձր ջերմություն, տաքություն"
+sunken_eyes,փոս ընկած աչքեր
+breathlessness,"շնչահեղձություն, շնչառական խնդիր, շունչը կտրվել"
+sweating,"քրտինք, քրտնել"
+dehydration,ջրազրկում
+indigestion,մարսողություն 
+headache,գլխացավ
+yellowish_skin,"դեղնավուն մաշկ, դեղին մաշկ դեղնած"
+dark_urine,մուգ մեզ
+nausea,սրտխառնոց
+loss_of_appetite,"ախորժակի կորուստ, ախորժակի բացակայություն, հաց չուտել"
+pain_behind_the_eyes,ցավ աչքերի ներսում
+back_pain,մեջքի ցավ
+constipation,փորկապություն
+abdominal_pain,"որովայնային ցավ, փորացավ, փորի ցավ"
+diarrhoea,"փորլուծություն, լուծ"
+mild_fever,"Մեղմ ցնցուն, դողէրոցք"
+yellow_urine,դեղին մեզ
+yellowing_of_eyes,դեղին աչքեր
+acute_liver_failure,սուր լյարդի անբավարարություն
+fluid_overload,հեղուկի ավելցուկ
+swelling_of_stomach,ստամոքսի այրոց
+swelled_lymph_nodes,այտուցված ավիշ հանգույցներ
+malaise,անբավարարություն
+blurred_and_distorted_vision,լղոզված աղավաղված տեսողություն
+phlegm,"ֆլեգմա. լորձ, խորխ"
+throat_irritation,կոկորդի ցավ
+redness_of_eyes,աչքերի կարմրություն
+sinus_pressure,ճնշում
+runny_nose,քթի արտահոսք 
+congestion,գերհոգնածություն
+chest_pain,կրծքավանդակի ցավ
+weakness_in_limbs,վերջույթների թուլություն
+fast_heart_rate,սրտի  զարկերի արագացում
+pain_during_bowel_movements,աղիքների ցավ շարժումների ժամանակ
+pain_in_anal_region,ցավ անալ շրջանում
+bloody_stool,արյունոտ կեղտ
+irritation_in_anus,սրբանային գրգռում
+neck_pain,"պարանոցի ցավ, վզի ցավ"
+dizziness,գլխապտույտ
+cramps,ցավեր
+bruising,կապտուկ
+obesity,ճարպակալում
+swollen_legs,ուռած ոտքեր
+swollen_blood_vessels,այտուցված արյան անոթներ
+puffy_face_and_eyes,ուռած դեմք ու աչքեր
+enlarged_thyroid,ուռած վահանաձև գեղձ
+brittle_nails,փխրուն եղունգներ
+swollen_extremeties,այտուցված վերջույթներ
+excessive_hunger,"շատակերություն, քաղց"
+extra_marital_contacts,լրացուցիչ ամուսնական կապեր
+drying_and_tingling_lips,շրթունքների չորացում
+slurred_speech,աղավաղված խոսք
+knee_pain,ծնկի ցավ
+hip_joint_pain,ազդրի ցավ
+muscle_weakness,մկանների թուլություն 
+stiff_neck,ծուռ վիզ
+swelling_joints,այտուցված հոդեր
+movement_stiffness,շարժման խստություն
+spinning_movements,պտտվող շարժումներ
+loss_of_balance,հավասարակշռության կորուստ
+unsteadiness,անկայունություն
+weakness_of_one_body_side,մարմնի մեկ կողմի թուլություն
+loss_of_smell,հոտի կորուստ
+bladder_discomfort,միզապարկի տհաճություն
+foul_smell_of urine,մեզի տհաճ հոտ
+continuous_feel_of_urine,հաճախակի միզելու զգացումցանկություն
+passage_of_gases,գազեր
+internal_itching,Ներքին քոր
+toxic_look_(typhos),վատ տեսք
+depression,դեպրեսիա
+irritability,դյուրագրգռություն
+muscle_pain,մկանային ցավ
+altered_sensorium,փոփոխված զգայնություն
+red_spots_over_body,կարմիր բծեր մարմնի վրա
+belly_pain,"որովայնի ցավ, փորի ցավ, փորացավ"
+abnormal_menstruation,անկանոն դաշտան
+dischromic _patches,խալեր
+watering_from_eyes,"թաց աչքեր, արցունքարտադրություն"
+increased_appetite,մեծ ախորժակ
+polyuria,պոլիուրիա
+family_history,ընտանիքի պատմություն
+mucoid_sputum,թաց փռշտոց
+rusty_sputum,խորխոտ փռշտոց
+lack_of_concentration,չկարողանալ կենտրոնանալ
+visual_disturbances,տեսողական խանգարումներ
+receiving_blood_transfusion,ստացել եմ արյան փոխներարկում
+receiving_unsterile_injections,ստացել եմ ոչ ստերիլ սրսկում
+coma,կոմա
+stomach_bleeding,ստամոքսի արյունահոսություն
+distention_of_abdomen,ձգումներ որովայնի շրջանում
+history_of_alcohol_consumption,"ալկոհոլի չարաշահում, կախվածություն"
+fluid_overload,հեղուկի գերբեռնվածություն
+blood_in_sputum,արյուն խորխի մեջ
+prominent_veins_on_calf,արտահայտված երակներ
+palpitations,սրտխփոցը
+painful_walking,ցավ քայլելուց
+pus_filled_pimples,թարախային բշտիկներ
+blackheads,սև կետեր
+scurring,քոր
+skin_peeling,մաշկի կլեպ
+silver_like_dusting,արծաթանման փոշի
+small_dents_in_nails,"փոքրիկ խորշեր, անցքեր եղունգների մեջ"
+inflammatory_nails,բորբոքված եղունգներ
+blister,բշտիկներ
+red_sore_around_nose,կարմիր հատված քթի շուրջը
+yellow_crust_ooze,դեղին կեղեւով վերք
