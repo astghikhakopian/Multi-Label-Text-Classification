@@ -1,46 +1,46 @@
 Symptom,Description
 itching,Քոր
 skin_rash,մաշկի ցան
-nodal_skin_eruptions,"դուրս թավել , պզուկ, բշտիկ"
-continuous_sneezing,"շարունակական   փռշտոց, փռշտալ"
-shivering,"ցնցում, դող, դողէրոցք"
-chills,"սարսուռ, դող"
-joint_pain,"հոդերի ցավ , հոդացավ, ծնկների ցավ, ծունկ, արմունկների ցավ, արմունկ"
+nodal_skin_eruptions,Բշտիկներ
+continuous_sneezing,Շարունակական  փռշտոց
+shivering,դողէրոցք
+chills,սարսուռ
+joint_pain,հոդերի ցավ
 stomach_pain,ստամոքսի ցավ 
-acidity,"թթվայնություն, թթվություն, թթվայնության բարձրացում, ստամոքսի այրոց"
+acidity,թթվայնություն
 ulcers_on_tongue,բշտիկներ լեզվի վրա
 muscle_wasting,մկանների թուլացում
-vomiting,"փսխում, փսխել, հետ տալ"
+vomiting,փսխում
 burning_micturition,այրվող միզել
 spotting_ urination,միզել
 fatigue,հոգնածություն
-weight_gain,"քաշ ավելացնել, ավելորդ քաշ, գիրանալ, գեր"
+weight_gain,քաշի ավելացում
 anxiety,անհանգստություն
-cold_hands_and_feets,սառը ձեռքեր սառը ոտքեր
+cold_hands_and_feets,սառը ձեռքեր եւ ոտքեր
 mood_swings,տրամադրության տատանումներ
-weight_loss,"կշռի կորուստ, քաշի կորուստ, նիհարրել"
+weight_loss,քաշի կորուստ
 restlessness,անհանգստություն
-lethargy,"անտարբերություն, թմրածություն, անշարժություն, լեթարգիա"
-patches_in_throat,"մասնիկներ կոկորդում, կոկորդի ցավ"
+lethargy,թմրածություն
+patches_in_throat,մասնիկներ կոկորդում
 irregular_sugar_level,շաքարի անկանոն մակարդակ
 cough,հազ
-high_fever,"բարձր ջերմություն, տաքություն"
+high_fever,բարձր ջերմություն
 sunken_eyes,փոս ընկած աչքեր
-breathlessness,"շնչահեղձություն, շնչառական խնդիր, շունչը կտրվել"
-sweating,"քրտինք, քրտնել"
+breathlessness,շնչահեղձություն
+sweating,Բարձր քրտնաարտադրություն
 dehydration,ջրազրկում
-indigestion,մարսողություն 
+indigestion,Վատ մարսողություն 
 headache,գլխացավ
-yellowish_skin,"դեղնավուն մաշկ, դեղին մաշկ դեղնած"
+yellowish_skin,դեղնավուն մաշկ
 dark_urine,մուգ մեզ
 nausea,սրտխառնոց
-loss_of_appetite,"ախորժակի կորուստ, ախորժակի բացակայություն, հաց չուտել"
+loss_of_appetite,ախորժակի կորուստ
 pain_behind_the_eyes,ցավ աչքերի ներսում
 back_pain,մեջքի ցավ
 constipation,փորկապություն
-abdominal_pain,"որովայնային ցավ, փորացավ, փորի ցավ"
-diarrhoea,"փորլուծություն, լուծ"
-mild_fever,"Մեղմ ցնցուն, դողէրոցք"
+abdominal_pain,որովայնային ցավ
+diarrhoea,փորլուծություն
+mild_fever,Մեղմ ցնցում
 yellow_urine,դեղին մեզ
 yellowing_of_eyes,դեղին աչքեր
 acute_liver_failure,սուր լյարդի անբավարարություն
@@ -123,7 +123,7 @@ palpitations,սրտխփոցը
 painful_walking,ցավ քայլելուց
 pus_filled_pimples,թարախային բշտիկներ
 blackheads,սև կետեր
-scurring,քոր
+scurring,քերվել
 skin_peeling,մաշկի կլեպ
 silver_like_dusting,արծաթանման փոշի
 small_dents_in_nails,"փոքրիկ խորշեր, անցքեր եղունգների մեջ"
